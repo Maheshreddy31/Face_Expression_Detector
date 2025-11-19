@@ -16,8 +16,6 @@ Face_Expression_Detector/
 
 │── models/ (face-api.js pretrained weights)
 
-│── screenshot.png
-
 │── README.md
 
 # Features
