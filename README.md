@@ -5,7 +5,7 @@ This app uses your device camera to detect emotions such as happy, sad, angry, f
 
 # 🔗 Live Demo
 
-# 👉 Live Website: ()
+# 👉 Live Website: https://maheshreddy31.github.io/Face_Expression_Detector/
 
 # Project Structure
 Face_Expression_Detector/
