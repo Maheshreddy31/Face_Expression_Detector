@@ -3,8 +3,6 @@
 A real-time facial expression detection web application built using HTML, CSS, JavaScript, and face-api.js.
 This app uses your device camera to detect emotions such as happy, sad, angry, fear, surprise, disgust, neutral, and displays them live on screen.
 
-# 🔗 Live Demo
-
 # 👉 Live Website: https://maheshreddy31.github.io/Face_Expression_Detector/
 
 # Project Structure
